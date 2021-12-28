@@ -3,7 +3,7 @@ try:
     from discord.ext import commands
     import discord, aiohttp
 except ModuleNotFoundError:
-    print("install.bat実行しました？？\n実行してないならしてくださいね！")
+    print("install.bat実行しました？？\n実行してないならしてくださいね")
     exit()
 
 with open("config.json") as f:
