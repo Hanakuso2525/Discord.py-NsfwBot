@@ -2,4 +2,3 @@ discord
 requests
 json
 aiohttp
-re
